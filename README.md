@@ -1,10 +1,9 @@
-<!DOCTYPE html><!DOCTYPE html>
+
 <html>
 <head>
 <title></title>
 </head>
 <body>
-<body bgcolor = “orange”> 
 
 <h1 style="color:red;">Wound Dressings</h1>
 
