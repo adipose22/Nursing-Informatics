@@ -1,0 +1,117 @@
+<!DOCTYPE html><!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<body bgcolor = “orange”> 
+
+<h1 style="color:red;">Wound Dressings</h1>
+
+<h2 style="color:blue;"> Gauze: Moistened gauze provides mechanical debridement when removed.
+
+<h3>Advantages: Gauze is cost-effective and widely available. 
+<h3>Disadvantages: Gauze is not moisture-retentive. This dressing performs non-selective debridement, which can lead to removing new granulation tissue with dressing changes. This dressing is susceptible to bacterial contamination and requires a secondary dressing. 
+<h3>Clinical Application: This includes the early stages of deeper wounds that require packing. 
+<h3>Frequency of Dressing Changes: Change dressing multiple times a day if used for packing.<p>
+
+<img src="data:image/jpeg;base64,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" height="400px" width= "600px"> <p>
+
+
+<h2 style="color:blue;">Films: Films are thin and transparent dressings.
+
+      
+<h3> Advantages: Films are flexible and retain moisture. They provide the ability to monitor wounds visually. Films are semi-permeable, thus allowing for gas exchange while not allowing for external bacteria to enter the wound. These are self-adhesive. 
+<h3>Disadvantages: Films are non-absorbent and impermeable to fluid; thus, they can cause maceration. 
+<h3>Clinical Applications: Use films for shallow wounds, split-thickness skin graft donor sites, minor wounds, intravenous access sites, and secondary dressings. 
+<h3>Contraindications: These include moderate to heavy exudative or infected wounds. 
+<h3>Frequency of dressing changes: This ranges from every few days a week to routine dressing changes every 7 days <p>
+
+
+<img src="https://image.made-in-china.com/202f0j00czFoSTtIhabm/Transparent-Film-Dressing-I-V-Fixing-Self-Adhesive-Picc-Cathther-Bandages-6X-7cm.webp" height="400px" width= "600px">  <p>
+
+
+<h2 style="color:blue;"> Foams 
+
+<h3>Bilayer dressing: In this dressing, the inner layer is polyurethane or silicone, while the outer layer is a hydrophobic, permeable layer.   
+<p>Advantages: Foams absorb exudate. They are semi-occlusive and semi-permeable. Their thickness allows for extra protection from external trauma. 
+<p>Disadvantages: These include the inability to visualize wounds and drying out a wound.
+<p>Clinical Application: Use foam for moderate to heavy exudative and chronic wounds and pressure injuries. 
+<p>Frequency of dressing changes: Change daily or a few times a week.<p>
+
+<img src="https://www.ubuy.com.ph/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFuaHZWSDFkZUwuX1NMMTUwMF8uanBn.jpg" height="400px" width= "600px"> 
+
+<h2 style="color:blue;">Hydrogels: Hydrogels are hydrophilic starch polymers (predominately composed of water). These are available in sheets, amorphous gels, or gauze. 
+
+<h3>Advantages: These include absorbing water and providing a cooling effect, which can reduce pain. Hydrogels are generally transparent or clear. They provide a moist environment, which encourages autolytic debridement. 
+<h3>Disadvantages: Hydrogels have a low absorptive capacity and require a secondary dressing. 
+<h3>Clinical Applications: These are used for venous or arterial ulcers and surgical wounds; hydrogels also prevent tissue desiccation. 
+<h3>Contraindications: These are not for heavy exudative wounds. 
+Frequency of dressing changes: Every 1 to 3 days<p> 
+
+<img src="data:image/jpeg;base64,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" height="400px" width= "600px"> <p>
+
+<h2 style="color:blue;">Hydrocolloids: There are cross-linked hydrophilic polymers with cellulose, gelatin, or pectin. Hydrocolloids can be in sheets, paste, or powder form; hydrofiber dressings are an available dressing variant. 
+<h3> Advantages: They are initially impermeable to water but progressively absorb water, becoming more permeable and forming a gel. Hydrocolloids lower wound pH, inhibiting bacterial growth. These can be placed across joints or fill wound cavities. 
+ <h3> Disadvantages: It is not possible to visualize wounds.
+<h3> Clinical Applications: Use these for pressure wounds and minimal to moderate exudative wounds.  
+<h3>Contraindications: These are not for necrotic or infected wounds. 
+<h3>Frequency of Dressing Changes: Change dressings every 2 to 4 days<p>
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkSX48uzqztDhweiCibULawq16O9WAtt4q1CFEG3LuicaGt8U4Vt-B6kivtm4Uh6NhWQ&usqp=CAU" height="400px" width= "600px">  <p>
+
+
+<h2 style="color:blue;"> Alginate: This seaweed polysaccharide dressing has calcium ions exchanged for sodium ions to transform into a gel.
+
+<h3>Advantages: Alginate is highly porous, and the calcium ions have hemostatic properties. .
+<h3>Disadvantages: This dressing may adhere to the wound bed when dried—and can change into a yellow or brown color, which can be mistaken for purulence. Alginate has an unpleasant odor and requires a secondary dressing to avoid drying. 
+<h3>Clinical Applications: This dressing is for moderate to heavy exudative wounds
+<h3>Contraindications: These are not for minimally exudative wounds. 
+<h3>Frequency of Dressing Changes: Change dressing every 1 to 3 days<p>
+
+
+<img src="https://cdn11.bigcommerce.com/s-o8733fkisv/images/stencil/500x240/products/254/1502/alginate_2__96528.1640634388.jpg?c=1" height="400px" width= "600px">  <p>
+
+
+
+<h2 style="color:blue;">Antimicrobial: Silver ions disrupt bacterial cell walls and DNA synthesis in addition to inactivating bacterial enzymes. Iodine-impregnated dressings are available as well. 
+
+<h3>  Advantages: These have broad-spectrum antimicrobial properties. 
+<h3>Disadvantages: Oxidized silver can stain skin. Silver ions cannot penetrate deep wounds; there is concern for systemic adverse effects with prolonged use of iodine-based products. 
+<h3>Clinical Applications: These can be used on superficially infected wounds or those with a high risk of infection. 
+<h3>Contraindications: These are not for deep wounds. 
+<h3>Frequency of Dressing Changes: Change daily or every few days, depending on dressing saturation.<p>
+
+
+<img src="https://cardinalhealth.scene7.com/is/image/cardinalcorpprod/grid-wide-kerlix-amd-antimicrobial-gauze-bandage-rolls" height="400px" width= "600px">  <p>
+
+
+
+
+
+<p>
+<p>
+<h3> References:<p>
+Britto, E. J., Nezwek, T. A., & Robins, M. (2024, January 23). Wound Dressings. Nih.gov; StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK470199/?fbclid=IwAR0T99YL0ZL9GUMVDtGB2mqRPBQB2WuJmfRwBM3y81Ysmb1-Dh8rc59zE2Qhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cardinalhealth.com%2Fen%2Fproduct-solutions%2Fmedical%2Fskin-and-wound-management%2Fantimicrobial-dressings.html&psig=AOvVaw3OPHHQ6LU4Jpy9JfE2hbep&ust=1707549519607000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODaq-XbnYQDFQAAAAAdAAAAABAF
+
+<p> Gauze Dressing Pads
+By  Container: indiamart.com Year: 2016 URL: https://www.indiamart.com/proddetail/gauze-dressing-pads-5571962662.html
+Transparent Film Dressing I. V Fixing Self-Adhesive Picc Cathther Bandages 6X 7cm
+By  Container: Made-in-China.com Year: 2024 URL: https://wuhanhuawei.en.made-in-china.com/product/KmtpkFjrZYhs/China-Transparent-Film-Dressing-I-V-Fixing-Self-Adhesive-Picc-Cathther-Bandages-6X-7cm.html
+
+<p> Page, H. (2017). Dimora Foam Dressing, Sterile Non-Adhesive Philippines | Ubuy. Ubuy Philippines. https://www.ubuy.com.ph/product/3O1LGH9TS-dimora-foam-dressing-sterile-non-adhesive-hydrophilic-pads-highly-absorbent-4-x4-10-cm-10-cm-pack-of-10-square-waterproof-dressing-for
+
+<p> Hydrogel wound dressing uses immune system proteins to kill bacteria
+By https://newatlas.com/author/ben-coxworth Container: New Atlas Year: 2021 URL: https://newatlas.com/medical/antibacterial-hydrogel-wound-dressing-peptides/
+<p>(2024). Medlineplus.gov. https://medlineplus.gov/ency/images/ency/fullsize/1078.jpg
+
+<p>Amazon.com: 5 Packs Silicone Border Foam Dressing 6x6 in, 10 Packs Hydrocolloid Dressing 4x4 in, High Absorbent Waterproof Foam Wound Dressing Adhesive Wound Bandages : Health & Household
+By  Container: Amazon.com Year: 2024 URL: https://www.amazon.com/Hydrocolloid-Dressing-Silicone-Waterproof-Absorbent/dp/B09RJY9YNZ
+
+<p>Clearance Calcium Alginate Dressings
+By  Container: AD Surgical Year: 2022 URL: https://ad-surgical.com/wound-free-calcium-alginate-dressings/
+<p> Antimicrobial Dressings with PHMB | Cardinal Health
+By  Container: Cardinalhealth.com Year: 2023 URL: https://www.cardinalhealth.com/en/product-solutions/medical/skin-and-wound-management/antimicrobial-dressings.html
+
+‌
